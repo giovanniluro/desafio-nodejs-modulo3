@@ -6,6 +6,7 @@ API responsável por criar transações monetárias.
   API responsible for creating monetary transactions.
   
 Funcionalidades:
+
 ✔ Deixa criar uma nova transição no formato ('titulo', valor, 'tipo') onde valor é um valor numérico e tipo pode ser income ou outcome.
   ✔ Let you create a new transaction labeled as ('title', value, 'type') where value is a number, and type can be income or outcome.
   
